@@ -29,7 +29,7 @@
 					
 					<a href="CurrentAuction.php">Current Auctions</a>
 					<a href="pastAuction.php">Past Auctions</a>					
-					<a href="loigin.php">Login</a>
+					<a href="login.php">Login</a>
 					
 				</div>
 			</div>
